@@ -154,8 +154,11 @@ Assignments are self-contained and can be opened directly in your browser for qu
 
 <p >
   <b>Maddineni Sri Rithika</b><br><br>
-  <a href="https://www.linkedin.com/in/sri-rithika-9b113932a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/srithika22"><img src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sri-rithika-9b113932a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/srithika22" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+<p align="center">
+  <i>Feel free to connect with me on LinkedIn or check out my other projects on GitHub!</i>
 </p>
 
 ---
