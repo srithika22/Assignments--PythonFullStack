@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Music Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Link to your CSS and FontAwesome -->
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <!-- ====== SIDEBAR ====== -->
+      <aside class="sidebar">
+        <h3 class="sidebar-title">Your Library</h3>
+
+        <div class="box">
+          <p>Create your first playlist</p>
+          <small>It's easy, we'll help you</small>
+          <button>Create playlist</button>
+        </div>
+
+        <div class="box">
+          <p>Let's find some podcasts to follow</p>
+          <small>We'll keep you updated on new episodes</small>
+          <button>Browse podcasts</button>
+        </div>
+      </aside>
+      <!-- ====== END OF SIDEBAR ====== -->
+
+      <!-- ====== MAIN CONTENT AREA ====== -->
+      <div class="main-box">
+        <!-- ====== HEADER ====== -->
+        <div class="header">
+          <div class="hc1">
+            <div class="hc11">
+              <i class="fa-brands fa-spotify brand"></i>
+            </div>
+            <div class="hc12">
+              <i class="fa-solid fa-house home"></i>
+            </div>
+            <div class="hc13">
+              <div class="hc131">
+                <i class="fa-solid fa-magnifying-glass search"></i>
+              </div>
+              <div class="hc132">
+                <input
+                  type="search"
+                  class="ip-ser"
+                  placeholder="what do you want to search?"
+                />
+              </div>
+              <div class="hc133">
+                <i class="fa-solid fa-window-restore search"></i>
+              </div>
+            </div>
+          </div>
+          <div class="hc2">
+            <div class="hc21">
+              <a href="">Premium</a>
+              <a href="">Support</a>
+              <a href="">Download</a>
+            </div>
+            <div class="bar"></div>
+            <div class="hc22">
+              <button><i class="fa-solid fa-download"></i> Install App</button>
+            </div>
+            <div class="hc23">
+              <button>Signup</button>
+            </div>
+            <div class="hc24">
+              <button>Login</button>
+            </div>
+          </div>
+        </div>
+        <!-- ====== END OF HEADER ====== -->
+
+        <!-- ====== TRENDING SONGS SECTION ====== -->
+        <section class="trending-section">
+          <div class="section-header">
+            <h2>Trending songs</h2>
+            <a href="#" class="show-all">Show all</a>
+          </div>
+
+          <!-- Horizontally scrollable container -->
+          <div class="trending-cards">
+            <!-- Song 1 -->
+            <div class="song-card">
+              <div class="song-thumb">
+                <div class="placeholder-img">Image</div>
+              </div>
+              <div class="song-info">
+                <p class="song-title">Butta Bomma</p>
+                <p class="song-artist">Armaan Malik</p>
+              </div>
+            </div>
+            <!-- Song 2 -->
+            <div class="song-card">
+              <div class="song-thumb">
+                <div class="placeholder-img">Image</div>
+              </div>
+              <div class="song-info">
+                <p class="song-title">Samajavaragamana</p>
+                <p class="song-artist">Sid Sriram</p>
+              </div>
+            </div>
+            <!-- Song 3 -->
+            <div class="song-card">
+              <div class="song-thumb">
+                <div class="placeholder-img">Image</div>
+              </div>
+              <div class="song-info">
+                <p class="song-title">Ramuloo Ramulaa</p>
+                <p class="song-artist">Anurag Kulkarni, Mangli</p>
+              </div>
+            </div>
+            <!-- Song 4 -->
+            <div class="song-card">
+              <div class="song-thumb">
+                <div class="placeholder-img">Image</div>
+              </div>
+              <div class="song-info">
+                <p class="song-title">Nee Kannu Neeli Samudram</p>
+                <p class="song-artist">Vishal Mishra</p>
+              </div>
+            </div>
+            <!-- Song 5 -->
+            <div class="song-card">
+              <div class="song-thumb">
+                <div class="placeholder-img">Image</div>
+              </div>
+              <div class="song-info">
+                <p class="song-title">Vachinde</p>
+                <p class="song-artist">Madhu Priya, Haricharan</p>
+              </div>
+            </div>
+            <!-- Song 6 -->
+            <div class="song-card">
+              <div class="song-thumb">
+                <div class="placeholder-img">Image</div>
+              </div>
+              <div class="song-info">
+                <p class="song-title">Dheera Dheera</p>
+                <p class="song-artist">Vijay Yesudas</p>
+              </div>
+            </div>
+            <!-- Song 7 -->
+            <div class="song-card">
+              <div class="song-thumb">
+                <div class="placeholder-img">Image</div>
+              </div>
+              <div class="song-info">
+                <p class="song-title">Inkem Inkem Kaavaale</p>
+                <p class="song-artist">Sid Sriram</p>
+              </div>
+            </div>
+            <!-- Song 8 -->
+            <div class="song-card">
+              <div class="song-thumb">
+                <div class="placeholder-img">Image</div>
+              </div>
+              <div class="song-info">
+                <p class="song-title">Naatu Naatu</p>
+                <p class="song-artist">Rahul Sipligunj, Kaala Bhairava</p>
+              </div>
+            </div>
+            <!-- Song 9 -->
+            <div class="song-card">
+              <div class="song-thumb">
+                <div class="placeholder-img">Image</div>
+              </div>
+              <div class="song-info">
+                <p class="song-title">Maguva Maguva</p>
+                <p class="song-artist">Sid Sriram</p>
+              </div>
+            </div>
+            <!-- Song 10 -->
+            <div class="song-card">
+              <div class="song-thumb">
+                <div class="placeholder-img">Image</div>
+              </div>
+              <div class="song-info">
+                <p class="song-title">Yentha Sakkagunnave</p>
+                <p class="song-artist">Siddharth Slathia</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ====== POPULAR ARTISTS SECTION ====== -->
+        <section class="artists-section">
+          <div class="section-header">
+            <h2>Popular artists</h2>
+            <a href="#" class="show-all">Show all</a>
+          </div>
+
+          <!-- Horizontally scrollable container -->
+          <div class="artists-cards">
+            <!-- Artist 1 -->
+            <div class="artist-card">
+              <div class="artist-thumb">
+                <div class="placeholder-circle">Img</div>
+              </div>
+              <p class="artist-name">Artist 1</p>
+            </div>
+            <!-- Artist 2 -->
+            <div class="artist-card">
+              <div class="artist-thumb">
+                <div class="placeholder-circle">Img</div>
+              </div>
+              <p class="artist-name">Artist 2</p>
+            </div>
+            <!-- Artist 3 -->
+            <div class="artist-card">
+              <div class="artist-thumb">
+                <div class="placeholder-circle">Img</div>
+              </div>
+              <p class="artist-name">Artist 3</p>
+            </div>
+            <!-- Artist 4 -->
+            <div class="artist-card">
+              <div class="artist-thumb">
+                <div class="placeholder-circle">Img</div>
+              </div>
+              <p class="artist-name">Artist 4</p>
+            </div>
+            <!-- Artist 5 -->
+            <div class="artist-card">
+              <div class="artist-thumb">
+                <div class="placeholder-circle">Img</div>
+              </div>
+              <p class="artist-name">Artist 5</p>
+            </div>
+            <!-- Artist 6 -->
+            <div class="artist-card">
+              <div class="artist-thumb">
+                <div class="placeholder-circle">Img</div>
+              </div>
+              <p class="artist-name">Artist 6</p>
+            </div>
+            <!-- Artist 7 -->
+            <div class="artist-card">
+              <div class="artist-thumb">
+                <div class="placeholder-circle">Img</div>
+              </div>
+              <p class="artist-name">Artist 7</p>
+            </div>
+            <!-- Artist 8 -->
+            <div class="artist-card">
+              <div class="artist-thumb">
+                <div class="placeholder-circle">Img</div>
+              </div>
+              <p class="artist-name">Artist 8</p>
+            </div>
+          </div>
+        </section>
+        <!-- ====== END OF CONTENT ====== -->
+      </div>
+      <!-- ====== END OF MAIN CONTENT AREA ====== -->
+    </div>
+  </body>
+</html>
