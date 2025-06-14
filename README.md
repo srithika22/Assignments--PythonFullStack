@@ -158,3 +158,8 @@ Assignments are self-contained and can be opened directly in your browser for qu
   <a href="https://github.com/srithika22"><img src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+---
+
+<p align="center">
+  <i>This repository reflects ongoing learning and projects in full stack web development. Thank you for visiting!</i>
+</p>
