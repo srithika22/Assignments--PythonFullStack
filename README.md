@@ -16,24 +16,27 @@
 ## 📑 Table of Contents
 
 - [About This Repository](#about-this-repository)
-- [Assignment Details](#-assignment-details)
-  - [Assignment 1: Personal Portfolio Website](#-assignment-1-personal-portfolio-website)
-  - [Assignment 2: Music Dashboard UI](#-assignment-2-music-dashboard-ui)
-  - [Assignment 3: Catch-the-Ball JavaScript Game](#-assignment-3-catch-the-ball-javascript-game)
-  - [Assignment 4: Login Page](#-assignment-4-login-page)
-  - [Assignment 5: Login / Signup Page](#-assignment-5-login--signup-page)
-- [Technologies Used](#-technologies-used)
-- [How to Run](#-how-to-run)
-- [Notes & Updates](#-notes--updates)
-- [Author & Contact](#-author--contact)
+- [Assignment Details](#assignment-details)
+  - [Assignment 1: Personal Portfolio Website](Assignment-1/)
+  - [Assignment 2: Music Dashboard UI](Assignment-2/)
+  - [Assignment 3: Catch-the-Ball JavaScript Game](Assignment-3/)
+  - [Assignment 4: Login Page](Assignment-4/)
+  - [Assignment 5: Login / Signup Page](Assignment-5/)
+- [Technologies Used](#technologies-used)
+- [How to Run](#how-to-run)
+- [Notes & Updates](#notes--updates)
+- [Author & Contact](#author--contact)
 
 ---
 
 ## 📚 About This Repository
 
-This repository is a curated collection of assignments developed during the Python Full Stack learning journey. Each assignment is crafted to build practical skills in front-end design, interactivity, authentication, and soon, advanced React development.  
+This repository contains all my assignments for the Python Full Stack course.  
+Each folder is a complete project focused on a specific topic like web design, interactivity, authentication, or games.  
+You’ll find code using HTML, CSS, Bootstrap, JavaScript, and React.  
 Assignments are self-contained and can be opened directly in your browser for quick review and testing.  
 **Stay tuned for new additions and enhancements!**
+
 
 ---
 
@@ -141,9 +144,9 @@ Assignments are self-contained and can be opened directly in your browser for qu
 
 ## 📢 Notes & Updates
 
-- Each assignment is self-contained and easy to run.
-- **More assignments and React projects will be added soon!**
-- For questions or suggestions, open an issue or contact the author.
+- Each assignment is self-contained within its folder.
+- More assignments and folders, including React projects, will be added as the course progresses. Stay tuned for updates!
+- If you’d like a more detailed breakdown of a specific assignment, please let me know!
 
 ---
 
@@ -154,7 +157,8 @@ Assignments are self-contained and can be opened directly in your browser for qu
   <a href="https://www.linkedin.com/in/sri-rithika-9b113932a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/srithika22"><img src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
+**Maddineni Sri Rithika**  
+[LinkedIn](https://www.linkedin.com/in/sri-rithika-9b113932a/) | [GitHub](https://github.com/srithika22)
 ---
 
 <p align="center">
