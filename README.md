@@ -15,17 +15,17 @@
 
 ## 📑 Table of Contents
 
-- [About This Repository](#about-this-repository)
-- [Assignment Details](#assignment-details)
+- About This Repository
+- Assignment Details
   - [Assignment 1: Personal Portfolio Website](Assignment-1/)
   - [Assignment 2: Music Dashboard UI](Assignment-2/)
   - [Assignment 3: Catch-the-Ball JavaScript Game](Assignment-3/)
   - [Assignment 4: Login Page](Assignment-4/)
   - [Assignment 5: Login / Signup Page](Assignment-5/)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-- [Notes & Updates](#notes--updates)
-- [Author & Contact](#author--contact)
+- Technologies Used
+- How to Run
+- Notes & Updates
+- Author & Contact
 
 ---
 
@@ -152,15 +152,9 @@ Assignments are self-contained and can be opened directly in your browser for qu
 
 ## 🙋‍♀️ Author & Contact
 
-<p align="center">
-  <b>Maddineni Sri Rithika</b><br>
+<p >
+  <b>Maddineni Sri Rithika</b><br><br>
   <a href="https://www.linkedin.com/in/sri-rithika-9b113932a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/srithika22"><img src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-**Maddineni Sri Rithika**  
-[LinkedIn](https://www.linkedin.com/in/sri-rithika-9b113932a/) | [GitHub](https://github.com/srithika22)
----
 
-<p align="center">
-  <i>This repository reflects ongoing learning and projects in full stack web development. Thank you for visiting!</i>
-</p>
