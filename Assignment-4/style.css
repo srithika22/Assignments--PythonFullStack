@@ -1,0 +1,112 @@
+body {
+    background: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-container {
+    width: 360px;
+    padding: 40px 32px 32px 32px;
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(52, 152, 219, 0.18);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-container h2 {
+    margin-bottom: 28px;
+    color: #1976d2;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.form-group label {
+    margin-bottom: 7px;
+    color: #444;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.form-group input[type="text"],
+.form-group input[type="password"] {
+    padding: 12px 10px;
+    border: 1.5px solid #b0bec5;
+    border-radius: 6px;
+    font-size: 16px;
+    background: #f7fafc;
+    transition: border 0.2s;
+    outline: none;
+}
+
+.form-group input[type="text"]:focus,
+.form-group input[type="password"]:focus {
+    border: 1.5px solid #1976d2;
+    background: #e3f2fd;
+}
+
+.show-password {
+    margin-top: 6px;
+    font-size: 14px;
+    color: #555;
+    user-select: none;
+    display: flex;
+    align-items: center;
+}
+
+.show-password input[type="checkbox"] {
+    margin-right: 6px;
+}
+
+.login-btn {
+    margin-top: 10px;
+    padding: 12px;
+    background: linear-gradient(90deg, #1976d2 60%, #42a5f5 100%);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(33, 150, 243, 0.08);
+    transition: background 0.2s, transform 0.1s;
+}
+
+.login-btn:hover {
+    background: linear-gradient(90deg, #1565c0 60%, #1976d2 100%);
+    transform: translateY(-2px) scale(1.01);
+}
+
+.error, .success {
+    font-size: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    min-height: 18px;
+}
+
+.error {
+    color: #d32f2f;
+}
+
+.success {
+    color: #388e3c;
+}
